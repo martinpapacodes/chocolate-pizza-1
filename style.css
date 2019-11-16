@@ -1,0 +1,71 @@
+header {
+    height: 90px;
+}
+header h1 {
+    font-size: 1.7em;
+}
+#print {
+    float:right;
+}
+
+header img {
+        float: left;
+}
+
+header ul li {
+    float: right;
+}
+
+main {
+    margin-left: 475px;
+    margin-right: 475px;
+}
+main h1 {
+    font-size: 2.5em;
+}
+
+main article {
+    margin: 10px;
+    text-align: center;
+}
+
+#checklist {
+    background-image: url('img/list-bg.png');
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+#paragraph {
+    text-align: justify;
+}
+
+
+#first-list {
+    float: left;
+}
+
+/*/////////////////////*/
+/*////    Footer   ////*/
+/*/////////////////////*/
+footer {
+    height: 200px;
+
+}
+footer img {
+    text-align: center;
+}
+
+footer h3 {
+    font-size: 20px;
+    text-emphasis: strong;
+}
+
+footer span {
+    height: 400px;
+    width: 100px;
+    background-color: rgb(216, 69, 69);
+}
+
+footer div {
+    text-align: center;
+}
